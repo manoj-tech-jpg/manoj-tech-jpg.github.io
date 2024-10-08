@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+body {
+    background-image:url("https://www.google.com/imgres?q=hacker%20wallpaper&imgurl=https%3A%2F%2Fwww.pixelstalk.net%2Fwp-content%2Fuploads%2Fimages6%2FAwesome-Hacker-Background.jpg&imgrefurl=https%3A%2F%2Fwww.pixelstalk.net%2Fhacker-wallpapers-high-resolution%2F&docid=FyOQM2kavIVTjM&tbnid=lKr8mLr4aZO6WM&vet=12ahUKEwjXioqL_fuIAxXsU2wGHYYKGx8QM3oECC4QAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwjXioqL_fuIAxXsU2wGHYYKGx8QM3oECC4QAA");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    line-height: 1.6;
+    background-color: antiquewhite;
+  
+}
+
+header {
+background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: end;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+section {
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.project {
+    background: #f4f4f4;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.social-media {
+    list-style: none;
+    padding: 0;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #333;
+    color: #fff;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
